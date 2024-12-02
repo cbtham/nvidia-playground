@@ -1,2 +1,2 @@
-1. Create an Agent with Function Calling
-2. WIP deploy NIM
+1. Create a currency conversion Agent based on Llama3.1-8b with Function Calling and ReAct reasoning.
+2. Deploying NIM to GCP
